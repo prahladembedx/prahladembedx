@@ -142,17 +142,6 @@ An end-to-end machine learning project analyzing urban heat intensity across **5
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prahladembedx&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 Interested in **data, machine learning, web development, AI, and climate technology**?
