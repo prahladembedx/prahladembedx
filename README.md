@@ -11,7 +11,7 @@
 
 <!-- ============ CONTACT BADGES ============ -->
 <p align="center">
-  <a href="mailto:prahladkumar250320006@gmail.com"><img src="https://img.shields.io/badge/Email-prahladkumar250320006%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:prahladkumar25032006@gmail.com"><img src="https://img.shields.io/badge/Email-prahladkumar25032006%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/prahladembedx"><img src="https://img.shields.io/badge/LinkedIn-Prahlad%20K-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/prahladembedx"><img src="https://img.shields.io/badge/GitHub-prahladembedx-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=prahladembedx&label=Profile%20Views&color=2ea44f&style=flat" alt="Profile Views">
@@ -80,21 +80,15 @@
 | [🏧 ATM Simulator](https://github.com/prahladembedx/ATM-Simulator-C) | ATM simulation program | C |
 | [⏱️ CHRONO Ultra](https://github.com/prahladembedx/CHRONO-Ultra) | Web project built with HTML | HTML · CSS · JavaScript |
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/prahladembedx?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/prahladembedx/urban-heat-analysis?label=Last%20Commit&style=for-the-badge&logo=git&logoColor=white" alt="Last commit" />
-  <img src="https://img.shields.io/github/languages/top/prahladembedx/urban-heat-analysis?label=Top%20Language&style=for-the-badge&logo=python&logoColor=white" alt="Top language" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/prahladembedx?tab=repositories">View all repositories →</a>
+  <img src="./stats/github-metrics.svg" width="100%" alt="GitHub activity and metrics: stats, most used languages and contribution streaks" />
 </p>
 
 ## 📫 Let's Connect
 
-Open to conversations about data, web development, and climate tech. Reach out on [LinkedIn](https://www.linkedin.com/in/prahladembedx)!
+Open to internships, collaborations, and conversations about data, web development, and climate tech. Reach out on [LinkedIn](https://www.linkedin.com/in/prahladembedx)!
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
