@@ -14,7 +14,6 @@
   <a href="mailto:prahladkumar25032006@gmail.com"><img src="https://img.shields.io/badge/Email-prahladkumar25032006%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/prahladembedx"><img src="https://img.shields.io/badge/LinkedIn-Prahlad%20K-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/prahladembedx"><img src="https://img.shields.io/badge/GitHub-prahladembedx-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/prahladembedx?tab=followers"><img src="https://img.shields.io/github/followers/prahladembedx?label=Followers&style=flat&logo=github&logoColor=white&color=2ea44f" alt="Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=prahladembedx&label=Profile%20Views&color=2ea44f&style=flat" alt="Profile Views">
 </p>
 
