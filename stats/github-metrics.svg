@@ -30,9 +30,9 @@
   <circle cx="500" cy="392" r="50" fill="none" stroke="#fb8c00" stroke-width="8" stroke-linecap="round"
           stroke-dasharray="283 31.4" transform="rotate(-73.4 500 392)"/>
   <path transform="translate(500,344) scale(1.3)" fill="#fb8c00" d="M0 -14 C7 -7 10 -2 5 7 C3 2 -1 2 -4 7 C-9 -2 -6 -8 0 -14 Z"/>
-  <text x="500" y="406" text-anchor="middle" class="big">2</text>
+  <text x="500" y="406" text-anchor="middle" class="big">0</text>
   <text x="500" y="477" text-anchor="middle" style="font-size:18px;font-weight:600;fill:#fb8c00">Current Streak</text>
-  <text x="500" y="505" text-anchor="middle" class="sub">Oct 1 - Oct 2</text>
+  <text x="500" y="505" text-anchor="middle" class="sub">No streak yet</text>
 
   <text x="750" y="402" text-anchor="middle" class="big">28</text>
   <text x="750" y="450" text-anchor="middle" class="cap">Longest Streak</text>
