@@ -25,14 +25,6 @@
 >
 > I enjoy building projects that combine data, intelligent systems, and practical user interfaces — from analyzing real-world datasets to turning the results into interactive applications.
 >
-> **Currently exploring:**
->
-> - 🐍 Python & Data Analytics
-> - 🤖 Machine Learning
-> - 🌐 React & Web Development
-> - 📊 Data Visualization
-> - 🧠 AI-powered applications
-> - 🛠️ Building complete projects from data → model → interface
 
 ## 🛠️ Tech Stack & Tooling
 
