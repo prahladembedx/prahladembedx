@@ -11,9 +11,9 @@
   <rect x="0.5" y="0.5" width="999" height="539" rx="10" fill="#ffffff" stroke="#e4e7ec"/>
 
   <text x="70" y="62" class="ttl">Prahlad Kumar's GitHub Stats</text>
-  <path transform="translate(70,97)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M10 2 L12.4 7.3 L18 7.9 L13.8 11.7 L15 17.3 L10 14.4 L5 17.3 L6.2 11.7 L2 7.9 L7.6 7.3 Z"/><text x="102" y="112" class="lbl">Total Stars Earned:</text><text x="320" y="112" class="lbl">1</text><g transform="translate(70,135)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7.5"/><path d="M10 5.5 V10 L13 12"/></g><text x="102" y="150" class="lbl">Total Commits:</text><text x="320" y="150" class="lbl">142</text><g transform="translate(70,173)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="4.5" r="2"/><circle cx="5" cy="15.5" r="2"/><circle cx="15" cy="15.5" r="2"/><path d="M5 6.5 V13.5 M15 13.5 V8 Q15 5 12 5 H9.5"/></g><text x="102" y="188" class="lbl">Total PRs:</text><text x="320" y="188" class="lbl">0</text><g transform="translate(70,211)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7.5"/><path d="M10 6 V10.5 M10 13.5 V13.6"/></g><text x="102" y="226" class="lbl">Total Issues:</text><text x="320" y="226" class="lbl">0</text><g transform="translate(70,249)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 3 H15 V16 H6.5 A1.5 1.5 0 0 1 5 14.5 Z M5 14.5 A1.5 1.5 0 0 1 6.5 13 H15"/></g><text x="102" y="264" class="lbl">Contributed to:</text><text x="320" y="264" class="lbl">0</text>
-  <circle cx="480" cy="180" r="46" fill="none" stroke="#dbe7fb" stroke-width="10"/><circle cx="480" cy="180" r="46" fill="none" stroke="#4c8dff" stroke-width="10" stroke-linecap="round" stroke-dasharray="14.2 289.0" transform="rotate(-90 480 180)"/>
-  <text x="480" y="191" text-anchor="middle" style="font-size:30px;font-weight:700;fill:#2b2f3a">C+</text>
+  <path transform="translate(70,97)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M10 2 L12.4 7.3 L18 7.9 L13.8 11.7 L15 17.3 L10 14.4 L5 17.3 L6.2 11.7 L2 7.9 L7.6 7.3 Z"/><text x="102" y="112" class="lbl">Total Stars Earned:</text><text x="320" y="112" class="lbl">1</text><g transform="translate(70,135)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7.5"/><path d="M10 5.5 V10 L13 12"/></g><text x="102" y="150" class="lbl">Total Commits:</text><text x="320" y="150" class="lbl">146</text><g transform="translate(70,173)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="4.5" r="2"/><circle cx="5" cy="15.5" r="2"/><circle cx="15" cy="15.5" r="2"/><path d="M5 6.5 V13.5 M15 13.5 V8 Q15 5 12 5 H9.5"/></g><text x="102" y="188" class="lbl">Total PRs:</text><text x="320" y="188" class="lbl">0</text><g transform="translate(70,211)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7.5"/><path d="M10 6 V10.5 M10 13.5 V13.6"/></g><text x="102" y="226" class="lbl">Total Issues:</text><text x="320" y="226" class="lbl">0</text><g transform="translate(70,249)" fill="none" stroke="#4c6fd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 3 H15 V16 H6.5 A1.5 1.5 0 0 1 5 14.5 Z M5 14.5 A1.5 1.5 0 0 1 6.5 13 H15"/></g><text x="102" y="264" class="lbl">Contributed to:</text><text x="320" y="264" class="lbl">0</text>
+  <circle cx="480" cy="180" r="46" fill="none" stroke="#dbe7fb" stroke-width="10"/><circle cx="480" cy="180" r="46" fill="none" stroke="#4c8dff" stroke-width="10" stroke-linecap="round" stroke-dasharray="14.5 289.0" transform="rotate(-90 480 180)"/>
+  <text x="480" y="191" text-anchor="middle" style="font-size:30px;font-weight:700;fill:#2b2f3a">B</text>
 
   <text x="600" y="62" class="ttl">Most Used Languages</text>
   <clipPath id="barclip"><rect x="600" y="92" width="330" height="10" rx="5"/></clipPath>
@@ -23,16 +23,16 @@
   <line x1="375" y1="320" x2="375" y2="515" stroke="#e4e7ec"/>
   <line x1="625" y1="320" x2="625" y2="515" stroke="#e4e7ec"/>
 
-  <text x="250" y="402" text-anchor="middle" class="big">150</text>
+  <text x="250" y="402" text-anchor="middle" class="big">154</text>
   <text x="250" y="450" text-anchor="middle" class="cap">Total Contributions</text>
   <text x="250" y="485" text-anchor="middle" class="sub">Apr 13, 2026 - Present</text>
 
   <circle cx="500" cy="392" r="50" fill="none" stroke="#fb8c00" stroke-width="8" stroke-linecap="round"
           stroke-dasharray="283 31.4" transform="rotate(-73.4 500 392)"/>
   <path transform="translate(500,344) scale(1.3)" fill="#fb8c00" d="M0 -14 C7 -7 10 -2 5 7 C3 2 -1 2 -4 7 C-9 -2 -6 -8 0 -14 Z"/>
-  <text x="500" y="406" text-anchor="middle" class="big">0</text>
+  <text x="500" y="406" text-anchor="middle" class="big">1</text>
   <text x="500" y="477" text-anchor="middle" style="font-size:18px;font-weight:600;fill:#fb8c00">Current Streak</text>
-  <text x="500" y="505" text-anchor="middle" class="sub">No streak yet</text>
+  <text x="500" y="505" text-anchor="middle" class="sub">Oct 9 - Oct 9</text>
 
   <text x="750" y="402" text-anchor="middle" class="big">28</text>
   <text x="750" y="450" text-anchor="middle" class="cap">Longest Streak</text>
