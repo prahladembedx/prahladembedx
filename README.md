@@ -34,12 +34,6 @@
 > - 🧠 AI-powered applications
 > - 🛠️ Building complete projects from data → model → interface
 
-<br>
-
-<p align="center">
-  <img src="./dev-desk.svg" width="100%" alt="Developer coding at night under a starry sky" />
-</p>
-
 ## 🛠️ Tech Stack & Tooling
 
 <p align="center">
